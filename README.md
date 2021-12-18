@@ -7,6 +7,10 @@ This project lists all the warehouses by retrieving the information from api cal
 After cloning the project, navigate to root directory of the project through terminal and run the following scripts.
 
 ```bash
+npm install #This script will install all the dependency libraries.
+```
+
+```bash
 npm run server #This script will run the json server.
 ```
 
